@@ -2,9 +2,9 @@ package org.example;
 
 import java.util.Scanner;
 
-/**
- * Hello world!
- */
+/*
+Юнит-тесты, используя TestNG.
+*/
 public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
