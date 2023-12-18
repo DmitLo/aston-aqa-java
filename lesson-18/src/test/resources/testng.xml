@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ReportTestAppAndroidSuite">
+    <test name="ReportTestAppAndroid">
+        <classes>
+            <class name="org.example.ReportTestAppAndroid">
+            </class>
+        </classes>
+    </test>
+</suite>
